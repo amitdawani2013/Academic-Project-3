@@ -1,0 +1,2 @@
+# Project-3
+Business Intelligence – Created a dashboard and Key performance indicators (KPIs) visualization charts by using various data visualization techniques. The project included creating various KPIs such as inventory turnover, yearly revenue performance, online membership rate, Customer satisfaction rate etc for a retail chain. The  tools used were  MS word,  BI tool Tableau, SQL, and Power point and Erwin data modeler
